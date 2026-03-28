@@ -218,23 +218,6 @@ The project uses a **House Price dataset** with features:
 
 Harsh Chauhan  
 AI & Data Science
-💎 This is now PERFECT
-
-✔ Machine Learning (not Data Science)
-✔ Clean structure
-✔ Proper pipeline steps
-✔ GitHub-ready
-✔ Interview-ready
-
-🚀 Next Step
-
-Now your portfolio has:
-
-✔ Data Science Pipeline
-✔ Machine Learning Pipeline
-✔ NLP + RAG
-
-👉 Next best move:
 
 Customer Churn Prediction (Classification ML Project)
 
