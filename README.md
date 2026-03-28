@@ -175,12 +175,12 @@ Run scripts in order:
 
 
 python 01_load_dataset.py
-python 02_data_preprocessing.py \n
-python 03_eda.py \n
-python 04_feature_engineering.py \n
-python 05_model_training.py \n
-python 06_model_evaluation.py \n
-python 07_model_saving.py \n
+python 02_data_preprocessing.py 
+python 03_eda.py
+python 04_feature_engineering.py 
+python 05_model_training.py 
+python 06_model_evaluation.py 
+python 07_model_saving.py 
 
 
 ---
