@@ -174,13 +174,15 @@ pip install -r requirements.txt
 Run scripts in order:
 
 
+```bash
 python 01_load_dataset.py
-python 02_data_preprocessing.py 
+python 02_data_preprocessing.py
 python 03_eda.py
-python 04_feature_engineering.py 
-python 05_model_training.py 
-python 06_model_evaluation.py 
-python 07_model_saving.py 
+python 04_feature_engineering.py
+python 05_model_training.py
+python 06_model_evaluation.py
+python 07_model_saving.py
+```
 
 
 ---
