@@ -218,9 +218,3 @@ The project uses a **House Price dataset** with features:
 
 Harsh Chauhan  
 AI & Data Science
-
-Customer Churn Prediction (Classification ML Project)
-
-If you want:
-
-👉 I’ll build full churn project like this 😎🔥
