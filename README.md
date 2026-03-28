@@ -217,7 +217,7 @@ The project uses a **House Price dataset** with features:
 ## 👨‍💻 Author
 
 Harsh Chauhan  
-AI & Data Science Enthusiast
+AI & Data Science
 💎 This is now PERFECT
 
 ✔ Machine Learning (not Data Science)
